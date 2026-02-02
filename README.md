@@ -4,6 +4,22 @@
 
 > From Walchand approximately 120+ students appeared and 33 got shortlisted & 7 were finally selected
 
+
+## Aptitude Test
+__Date__ : 2 Aug 2025
+
+__Platform__ : Hackerrank
+
+__Time__ : 1 Hour 30 Minutes
+
+__Technical Questions__ : 10-15 Questions (Didn't remember exact count)
+This questions include core concets of OS, DBMS(Sub Queries), DSA Algorithms (Binary Search), System Design
+
+__Coding Questions__ : 3 Questions
+
+
+
+
 ## Technical Interview
   __Date__ : 11 Aug 2025
   
