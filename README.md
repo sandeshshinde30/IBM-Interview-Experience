@@ -1,7 +1,7 @@
 # IBM-Interview-Experience
 
 ##### On-Campus Opportunity
-``` 
+
 ## Aptitude Test
 __Date__ : 2 Aug 2025
 
@@ -69,8 +69,6 @@ Constraints
 
 s contains only lowercase English letters and digits
 ```
-```
-
 
 
 
