@@ -80,7 +80,8 @@ Then interview was over Manager given me the complement and precious smile
 
 > Here Managerial-Tech Interview Ended.....
 
-
+>  
+>  
 
 
 
@@ -91,5 +92,6 @@ Then interview was over Manager given me the complement and precious smile
 
 
 ```
-<img width="full" alt="IBM Image" src="https://github.com/user-attachments/assets/73a3b517-003e-474c-bd95-0e9d5d059d8c" />
+<img width="600" height="475" alt="image" src="https://github.com/user-attachments/assets/dd350746-79d0-416b-a234-462b7c6998dc" />
+
 
