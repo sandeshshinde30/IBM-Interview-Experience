@@ -19,11 +19,11 @@ This questions include core concets of OS, DBMS(Sub Queries), DSA Algorithms (Bi
 
 __Coding Questions__ : 3 Questions
 
-- Go to Question 1 → [click here](Question-1.md)
+- Go to Question 1 → [Ques 1](Question-1.md)
 
-- Go to Question 1 → [click here](Question-2.md)
+- Go to Question 2 → [Ques 2](Question-2.md)
  
-- Go to Question 1 → [click here](Question-3.md)
+- Go to Question 3 → [Ques 3](Question-3.md)
 
 <br>
 <br>
