@@ -19,6 +19,8 @@ This questions include core concets of OS, DBMS(Sub Queries), DSA Algorithms (Bi
 
 __Coding Questions__ : 3 Questions
 
+- Go to Question 1 → [click here](Question-1.md)
+
 
 <br>
 <br>
