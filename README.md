@@ -1,7 +1,7 @@
 # IBM-Interview-Experience
 
 ##### On-Campus Opportunity
-
+``` 
 ## Aptitude Test
 __Date__ : 2 Aug 2025
 
@@ -15,7 +15,8 @@ This questions include core concets of OS, DBMS(Sub Queries), DSA Algorithms (Bi
 __Coding Questions__ : 3 Questions
 
 ### Question 1 
-``` Problem Statement
+```
+Problem Statement
 
 You are given a string s consisting of lowercase English letters (a–z) and digits (0–9).
 
@@ -67,6 +68,7 @@ Constraints
 1 <= s.length <= 10⁵
 
 s contains only lowercase English letters and digits
+```
 ```
 
 
