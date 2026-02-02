@@ -21,6 +21,9 @@ __Coding Questions__ : 3 Questions
 
 - Go to Question 1 → [click here](Question-1.md)
 
+- Go to Question 1 → [click here](Question-2.md)
+ 
+- Go to Question 1 → [click here](Question-3.md)
 
 <br>
 <br>
