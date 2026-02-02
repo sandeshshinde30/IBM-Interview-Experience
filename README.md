@@ -4,6 +4,8 @@
 
 > From Walchand approximately 120+ students appeared and 33 got shortlisted & 7 were finally selected
 
+<br>
+
 
 ## Aptitude Test
 __Date__ : 2 Aug 2025
@@ -18,7 +20,8 @@ This questions include core concets of OS, DBMS(Sub Queries), DSA Algorithms (Bi
 __Coding Questions__ : 3 Questions
 
 
-
+<br>
+<br>
 
 ## Technical Interview
   __Date__ : 11 Aug 2025
@@ -55,6 +58,9 @@ Full luck game ....
 
 > Here Technical Interview Ended.....
 
+
+<br>
+<br>
 
 ## Managerial-Tech Interview
   __Date__ : 11 Aug 2025
@@ -96,16 +102,14 @@ Then interview was over Manager given me the complement and precious smile
 
 > Here Managerial-Tech Interview Ended.....
 
->  
->  
+<br>
+<br>  
 
 
 
 ```[HTML]
 
-
  Got placed in IBM....
-
 
 ```
 <img width="600" height="475" alt="image" src="https://github.com/user-attachments/assets/dd350746-79d0-416b-a234-462b7c6998dc" />
